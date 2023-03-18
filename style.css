@@ -419,9 +419,12 @@
 					 }
                    h2{
 					text-align: center;
+					padding:2rem;
 				   }
 				   .email{
 					padding-top: 10px;
 					margin-top: 16px;
 				   }
-				   p{}
+				   img{background-position: center;
+					align-items: center;
+					padding: 0rem;}
